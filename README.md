@@ -53,8 +53,12 @@ We plan to:
 * Links
 
 - An excellent, extremely-easy-to-use, secure platform for e-meetings
+
   https://jitsi.itu.dk/
+  
   https://zoom.us/
+  
+  skype 
 - git repository
 
  https://github.com/garbamoussa/Save_African_Covid19/blob/master/README.md 
@@ -82,11 +86,21 @@ Currently, we have:
 - GARBA Moussa, data scientist freelancen. Moussa is our project
   manager. He  will also take charge of the database, data analysis, algorithms developpement.
   
+  https://www.linkedin.com/in/dr-garba-moussa-3559a73b/
+  
 
-- ........., product designer. Anne will contribute to the
-  web-design:
+- Josué AFOUDA, product designer. Josué will contribute to the
+  web-design, web devopment
+  
+  https://github.com/JosueAfouda/projects_learning.git
+  
+  https://www.linkedin.com/in/josué-afouda-2b5837173/
+  
 
-- 
+- Juste Goungounga, Doctor in heath public, Statistical analysis methods in cancer epidemiology. 
+
+https://www.linkedin.com/in/justegoungounga/ 
+
 - 
 application in Vision. 
 -
