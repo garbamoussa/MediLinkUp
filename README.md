@@ -101,8 +101,11 @@ Currently, we have:
 
 https://www.linkedin.com/in/justegoungounga/ 
 
-- 
+- Youssoufa Tchiroma, French/English speaking Technical support | Network Engineer | AWS Evangelist
+
+  https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
 application in Vision. 
+
 -
 
 
