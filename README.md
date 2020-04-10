@@ -1,17 +1,31 @@
 # Save_African_Covid19
-Using IA method to save african life againt coronavirus 
+From drones to apps and computer-controlled vending machines — are helping to break down these barriers and provide access to vital medicines for many more African people.Especially save african life againt covid_19 
 
 * Vision and Plans
 
-The world is in a disastrous situation.  As of yesterday April 10,
-worldmeters [https://www.worldometers.info/coronavirus/] reported
-1,605,790 coronavirus cases and 95,766 deaths.  The economy is low and
-people suffered. We believe, as a team composed of developers and
-researcher on IT, product design, data analysis and biotech, that we
-can make contributions from our aspects to help the people to curb the
-pandemic situation.
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
-Our goal of this Hackaton is to develop a prototype for massive
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+
+On 31 December 2019, WHO was informed of a cluster of cases of pneumonia of unknown cause detected in Wuhan City, Hubei Province of China. The coronavirus disease (COVID-2019) was identified as the causative virus by Chinese authorities on 7 January. As part of WHO’s response to the outbreak, the R&D Blueprint has been activated to accelerate diagnostics, vaccines and therapeutics for this novel coronavirus.
+
+Since the start of the outbreak the World Health Organization (WHO) has been supporting African governments with early detection by providing thousands of COVID-19 testing kits to countries, training dozens of health workers and strengthening surveillance in communities. Forty-seven countries in the WHO African region can now test for COVID-19. At the start of the outbreak only two could do so.
+
+** World data visiliazation 
+https://www.worldometers.info/coronavirus/ and https://gisanddata.maps.arcgis.com/apps/opsdashboard/ reported
+1,676,820 coronavirus cases, 101,557deaths and 372,253 Recovered.  
+
+The economy is low and people suffered and economies in Sub-Saharan Africa could lose between $37 billion and $79 billion in output losses in 2020 due to COVID-19 (coronavirus), according to a new World Bank regional economic analysis. The region could face a severe food security crisis, with agricultural production expected to contract between 2.6% and 7%. 
+
+African countries urgently need to take on a customized short-term policy approach that takes into consideration the structural features of the region: (1) the size of informal employment in the region accounting for 89% of total employment; (2) the precariousness of most SSA jobs, (3) the predominance of small and medium-sized enterprises which constitute 90% of business units and are the drivers of growth in the region, and (4) the ineffectiveness of monetary stimulus due to the reduced labor supply and closed businesses, and in the recovery phase due to weak monetary transmission in countries with underdeveloped financial markets.
+
+We believe, as a team composed of developers and researcher on IT, product design, data scientist and biotech, doctors that we can make contributions from our aspects to help the people to curb the pandemic situation.
+
+Our goal of this project is to develop a prototype for massive
 coronavirus diagnosing via deep learning. Later, we want to apply for
 fundings, e.g. fast-grant [https://fastgrants.org/] for improving the
 project.  Ultimately, we hope to develop a software and data platform
@@ -21,11 +35,11 @@ diagnose the COVID-19 virus and complement doctors' diagonsis and
 testing.
 
 We plan to:
-
-1. Build a website to collect data of people's symptoms
-2. Manage the datebase, making it usable to other researchers while
+1. Build a website to collect data of patient's symptoms
+2. Create a large database epidemiology data and identify coronavirus symptoms. 
+3. Manage the datebase, making it usable to other researchers while
    taking care of privacy concerns.
-3. Build a neural network to learn from the data. The learned model
+4. Build a IA method  to learn from the data. The learned model
    allows us to make a diagnose.
 
 
@@ -61,24 +75,17 @@ the initial data
 
 Currently, we have:
 
-- Anaïs hijos, data analyst at Amgen. Anais is our project
-  manager. She will also take charge of the database, the
-  communication and the business
-model. Anais has strong connection in the healthcare sector.
-- Anne Nicole, product designer. Anne will contribute to the
+- GARBA Moussa, data scientist freelancen. Moussa is our project
+  manager. He  will also take charge of the database, data analysis, algorithms developpement.
+  
+
+- ........., product designer. Anne will contribute to the
   web-design:
-[[[[https://hackingcovid-19.slack.com/files/U011N9MRZEG/F011JAWDSBF/proposition_projet_hackaton_covi19_a._nicole_.pdf]]]].
-- Rishab Khincha, pre-final year student from India double majoring in
-  Physics and Computer Science.  Rishab's expertise lies in Machine
-  learning, Artificial Intelligence and open source python
-  programming.
-- Adnan Mohd, graduate student at University of Waterloo. Mohd's
-  expertise lies in Statistical Machine Learning, Probabilistic Deep
-  Learning and its
+
+- 
+- 
 application in Vision. 
-- Zhoulai Fu (Call me "July"), Assistant Professor of Computer Science
-  at IT University of Copenhagen, Denmark. I used to work on software
-  analysis and testing.
+-
 
 
 
