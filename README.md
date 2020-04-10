@@ -27,14 +27,18 @@ We believe, as a team composed of developers and researcher on IT, product desig
 
 Our goal of this project is to develop a prototype for massive
 coronavirus diagnosing via deep learning. Later, we want to apply for
-fundings, e.g. fast-grant [https://fastgrants.org/] for improving the
+fundings, e.g. fast-grant [https://fastgrants.org/,  for improving the
 project.  Ultimately, we hope to develop a software and data platform
 that will be widely used by ordinarly people around the world, as an
 accurate, cost-effective, and easy-to-use solution that can accurately
 diagnose the COVID-19 virus and complement doctors' diagonsis and
-testing.
+testing, 
+https://www.auf.org/afrique-ouest/nouvelles/actualites/appel-a-projets-international-auf-covid-19/?fbclid=IwAR0q5lyRiN1W0F_NfTaacCM3CVA1QxoqIhPklOhe6fCwYlcv5y5Ii7y7hrw 
+
+
 
 We plan to:
+
 1. Build a website to collect data of patient's symptoms
 2. Create a large database epidemiology data and identify coronavirus symptoms. 
 3. Manage the datebase, making it usable to other researchers while
@@ -50,14 +54,14 @@ We plan to:
 
 - An excellent, extremely-easy-to-use, secure platform for e-meetings
   https://jitsi.itu.dk/
-
+  https://zoom.us/
 - git repository
 
-  https://github.com/zhoulaifu/covid19_deeplearning_diagnosis
+ https://github.com/garbamoussa/Save_African_Covid19/blob/master/README.md 
 
-- Hackathon COVID-19
+- CHALLENGE COVID-19
 
-  https://hackingcovid19.fr/en/
+  https://africavsvirus.com
 
 
 
