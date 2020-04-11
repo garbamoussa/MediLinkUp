@@ -1,9 +1,9 @@
 # Save_African_Covid19
 From massive data, intelligence artificielle and epidemiology  — are helping to break down these barriers and provide access to vital medicines for many more African people. Especially save african life againt covid_19 
 
-* Vision and Plans
+## Vision and Plans
 
-##   COVID 
+####    COVID 
 "Co": "corona","vi": "virus"  "D":  " disease"
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
