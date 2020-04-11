@@ -108,6 +108,9 @@ application in Vision.
 
 - Jérôme ASSIE. Développeur Web Fullstack 
 
+- ZOUBIR Abdeljalil, AERIAL ENGINEER & JUNIOR DATA SCIENTIST 
+   https://www.linkedin.com/in/abdeljalil-zoubir-353573150/ 
+
 
 
 * Problems to solve
