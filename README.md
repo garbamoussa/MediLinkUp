@@ -1,5 +1,5 @@
 # Save_African_Covid19
-From drones to apps and computer-controlled vending machines — are helping to break down these barriers and provide access to vital medicines for many more African people.Especially save african life againt covid_19 
+From massive data, intelligence artificielle and epidemiology  — are helping to break down these barriers and provide access to vital medicines for many more African people. Especially save african life againt covid_19 
 
 * Vision and Plans
 
