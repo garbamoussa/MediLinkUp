@@ -43,7 +43,7 @@ We plan to:
 2. Create a large database epidemiology data and identify coronavirus symptoms. 
 3. Manage the datebase, making it usable to other researchers while
    taking care of privacy concerns.
-4. Build a IA method  to learn from the data. The learned model
+4. Build a IA method  to learn from the data and detect early covid-19 symptoms.  The learned model
    allows us to make a diagnose.
 
 
@@ -115,7 +115,8 @@ application in Vision.
 
 * Problems to solve
 
-** Website
+** Website and data collection patient and doctors 
+
 We need to show a preliminary website and argue for the design
 choices. Two things are the most important above all.
 -  the kind of data we need to collect
