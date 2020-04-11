@@ -106,7 +106,7 @@ https://www.linkedin.com/in/justegoungounga/
   https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
 application in Vision. 
 
--
+- Jérôme ASSIE. Développeur Web Fullstack 
 
 
 
