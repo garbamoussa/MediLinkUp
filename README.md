@@ -130,6 +130,7 @@ choices. Two things are the most important above all.
 ** Data
 We need to consider 
 - how the data should be stored. E.g. place of storage and format
+- Data selection 
 
 ** Deep Learning
 We need to consider
