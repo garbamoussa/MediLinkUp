@@ -28,14 +28,16 @@ African countries urgently need to take on a customized short-term policy approa
 
 We believe, as a team composed of developers and researcher on IT, product design, data scientist and biotech, doctors that we can make contributions from our aspects to help the people to curb the pandemic situation.
 
-Our goal of this project is to develop a prototype for massive
-coronavirus diagnosing via deep learning. Later, we want to apply for
-fundings, e.g. fast-grant [https://fastgrants.org/,  for improving the
-project.  Ultimately, we hope to develop a software and data platform
-that will be widely used by ordinarly people around the world, as an
-accurate, cost-effective, and easy-to-use solution that can accurately
-diagnose the COVID-19 virus and complement doctors' diagonsis and
-testing, 
+Our hope of this project is to develop a prototype for selecting patients via deep learning. 
+Later, we want to apply forfundings, e.g. fast-grant 
+
+[https://fastgrants.org/,  for improving the project.  Ultimately, we hope to develop a software and data platform that will be widely used by ordinarly people around the Africa , as an
+accurate, cost-effective, and easy-to-use solution that can accurately diagnose the COVID-19 virus and complement doctors' diagonsis and testing. 
+
+
+https://africavsvirus.com : Ideathon
+
+
 https://www.auf.org/afrique-ouest/nouvelles/actualites/appel-a-projets-international-auf-covid-19/?fbclid=IwAR0q5lyRiN1W0F_NfTaacCM3CVA1QxoqIhPklOhe6fCwYlcv5y5Ii7y7hrw 
 
 
