@@ -94,6 +94,9 @@ Currently, we have:
   https://www.linkedin.com/in/dr-garba-moussa-3559a73b/
   
 
+ - GOLDA Fania, Business Development and public Health nutrionist 
+ 
+   https://www.linkedin.com/in/goldafania/ 
 - Josué AFOUDA, product designer. Josué will contribute to the
   web-design, web devopment
   
@@ -111,7 +114,6 @@ https://www.linkedin.com/in/justegoungounga/
   https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
 application in Vision. 
 
-- Jérôme ASSIE. Développeur Web Fullstack 
 
 - ZOUBIR Abdeljalil, AERIAL ENGINEER & JUNIOR DATA SCIENTIST 
    https://www.linkedin.com/in/abdeljalil-zoubir-353573150/ 
