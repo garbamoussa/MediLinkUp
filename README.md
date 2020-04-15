@@ -98,6 +98,7 @@ Currently, we have:
  - GOLDA Fania, Business Development and public Health nutrionist 
  
    https://www.linkedin.com/in/goldafania/ 
+   
 - Josué AFOUDA, product designer. Josué will contribute to the
   web-design, web devopment
   
