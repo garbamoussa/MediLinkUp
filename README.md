@@ -95,7 +95,7 @@ Currently, we have:
   https://www.linkedin.com/in/dr-garba-moussa-3559a73b/
   
 
- - GOLDA Fania, Business Development and public Health nutrionist 
+ - GOLDA Fania, Public health professional, Project Coordinator, Business Development Representative (SaaS).
  
    https://www.linkedin.com/in/goldafania/ 
    
