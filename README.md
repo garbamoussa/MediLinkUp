@@ -138,3 +138,11 @@ We need to consider
 We need to consider
 - What we can do at the very beginning as few data are available.
 
+### Data science and 
+Good datascientists know that domain expertise is critical for building good models. So, before you publicize another COVID-19 forecasting model, please ask yourself the following questions:
+
+1. Do I have any domain experience in epidemiology or biostatistics?
+2. If you answered 'no' to the above, did you review your model with someone having these skills?
+3. If you answered 'no' to #1 and #2, can you find someone with these skills?
+
+Finally, if you answered 'no' to all of the above, please add a caveat to your write-up. Something like: "This model needs to be reviewed by someone with domain experience, but I found..."
