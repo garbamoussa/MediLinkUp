@@ -107,7 +107,7 @@ Currently, we have:
   https://www.linkedin.com/in/josué-afouda-2b5837173/
   
 
-- Juste Goungounga, Doctor in heath public, Statistical analysis methods in cancer epidemiology. 
+- Juste Goungounga, Doctor in Public health, Statistical analysis methods in cancer epidemiology. 
 
 https://www.linkedin.com/in/justegoungounga/ 
 
