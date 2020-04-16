@@ -34,11 +34,21 @@ Later, we want to apply forfundings, e.g. fast-grant
 [https://fastgrants.org/,  for improving the project.  Ultimately, we hope to develop a software and data platform that will be widely used by ordinarly people around the Africa , as an
 accurate, cost-effective, and easy-to-use solution that can accurately diagnose the COVID-19 virus and complement doctors' diagonsis and testing. 
 
+AFDB IDHEATHON 
+
 
 https://africavsvirus.com : Ideathon
 
 
+AUF 
+
+
 https://www.auf.org/afrique-ouest/nouvelles/actualites/appel-a-projets-international-auf-covid-19/?fbclid=IwAR0q5lyRiN1W0F_NfTaacCM3CVA1QxoqIhPklOhe6fCwYlcv5y5Ii7y7hrw 
+
+IBM 
+
+
+https://developer.ibm.com/callforcode/getstarted/covid-19/ 
 
 
 
