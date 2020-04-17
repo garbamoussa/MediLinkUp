@@ -114,22 +114,26 @@ Currently, we have:
    
 - Dr NDAYIRUKIYE Jean Pierre, Non-ophthalmologist physician : 
   Ophthalmic Pathology and Microbiology
+  
   http://www.icoph.org/connections/user_profile/003F000002GyqQnIAJ/Ndayirukiye-Jean-Pierre.html 
 
 - Juste Goungounga, Doctor in Public health, Statistical analysis methods in cancer epidemiology. 
 
-https://www.linkedin.com/in/justegoungounga/ 
+  https://www.linkedin.com/in/justegoungounga/ 
 
 - Youssoufa Tchiroma, French/English speaking Technical support | Network Engineer | AWS Evangelist
 
   https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
-application in Vision. 
+
 
 - Sharon Attipoe-Dorcoo, Ph.D, Health Services and Systems Researcher at CDC through The Bizzell Group, LLC
+
   https://www.linkedin.com/in/sharon-attipoe-dorcoo-ph-d-881a867/ 
 
 - nontsikelelo ncwadi, Public Health 
+
 - Ameena Bala, social community manager 
+
    https://www.linkedin.com/in/abdeljalil-zoubir-353573150/ 
 
 
