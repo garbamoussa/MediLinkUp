@@ -36,6 +36,7 @@ accurate, cost-effective, and easy-to-use solution that can accurately diagnose 
 
 AFDB IDHEATHON 
 
+-- System for detention of covid-19 systems in patients coming to the doctor in order to create work flow to predict likelihood of death.
 
 https://africavsvirus.com : Ideathon
 
@@ -102,37 +103,38 @@ the initial data
 
 Currently, we have:
 
-- GARBA Moussa, data scientist freelancen. Moussa is our project
+- 1. GARBA Moussa, data scientist freelancen. Moussa is our project
   manager. He  will also take charge of the database, data analysis, algorithms developpement.
   
   https://www.linkedin.com/in/dr-garba-moussa-3559a73b/
   
 
- - GOLDA Fania, Public health professional, Project Coordinator, Business Development Representative (SaaS).
+ - 2. GOLDA Fania, Public health professional, Project Coordinator, Business Development Representative (SaaS).
  
    https://www.linkedin.com/in/goldafania/ 
    
-- Dr NDAYIRUKIYE Jean Pierre, Non-ophthalmologist physician : 
+- 3. Dr NDAYIRUKIYE Jean Pierre, Non-ophthalmologist physician 
   Ophthalmic Pathology and Microbiology
   
   http://www.icoph.org/connections/user_profile/003F000002GyqQnIAJ/Ndayirukiye-Jean-Pierre.html 
 
-- Juste Goungounga, Doctor in Public health, Statistical analysis methods in cancer epidemiology. 
+- 4. Angeladine Kenne, PhD, Depidemiology / Clinical research / Biostatistics/ Neurological diseases; Tropical diseases   
+Infectious diseases 
 
-  https://www.linkedin.com/in/justegoungounga/ 
-
-- Youssoufa Tchiroma, French/English speaking Technical support | Network Engineer | AWS Evangelist
+  https://www.linkedin.com/in/angeladine-kenne-08488124/
+  
+## - 5. Youssoufa Tchiroma, French/English speaking Technical support | Network Engineer | AWS Evangelist
 
   https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
 
 
-- Sharon Attipoe-Dorcoo, Ph.D, Health Services and Systems Researcher at CDC through The Bizzell Group, LLC
+- 6. Sharon Attipoe-Dorcoo, Ph.D, Health Services and Systems Researcher at CDC through The Bizzell Group, LLC
 
   https://www.linkedin.com/in/sharon-attipoe-dorcoo-ph-d-881a867/ 
 
-- nontsikelelo ncwadi, Public Health 
+- 7. Nontsikelelo Noluvuyo Ncwadi, science engineering 
 
-- Ameena Bala, social community manager 
+- 8. Ameena Bala, social community manager 
 
    https://www.linkedin.com/in/abdeljalil-zoubir-353573150/ 
 
