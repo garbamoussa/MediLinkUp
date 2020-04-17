@@ -88,11 +88,14 @@ We plan to:
 * Team (on-going)
 
 Our team needs
-- a project manager 
-- web designers 
-- data people who take charge of data storage, privacy, etc.
-- AI developers
-- a software tester 
+Data scientist 
+Epidemiologist
+doctor or a public health official
+Product Designer
+full-stack web developer (s)
+Data analyst 
+Database manager 
+Graphic Designer
 
 We also need expertise from a mentor. Our concern might be how to get
 the initial data
@@ -109,13 +112,9 @@ Currently, we have:
  
    https://www.linkedin.com/in/goldafania/ 
    
-- Josué AFOUDA, product designer. Josué will contribute to the
-  web-design, web devopment
-  
-  https://github.com/JosueAfouda/projects_learning.git
-  
-  https://www.linkedin.com/in/josué-afouda-2b5837173/
-  
+- Dr NDAYIRUKIYE Jean Pierre, Non-ophthalmologist physician : 
+  Ophthalmic Pathology and Microbiology
+  http://www.icoph.org/connections/user_profile/003F000002GyqQnIAJ/Ndayirukiye-Jean-Pierre.html 
 
 - Juste Goungounga, Doctor in Public health, Statistical analysis methods in cancer epidemiology. 
 
@@ -126,8 +125,11 @@ https://www.linkedin.com/in/justegoungounga/
   https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
 application in Vision. 
 
+- Sharon Attipoe-Dorcoo, Ph.D, Health Services and Systems Researcher at CDC through The Bizzell Group, LLC
+  https://www.linkedin.com/in/sharon-attipoe-dorcoo-ph-d-881a867/ 
 
-- ZOUBIR Abdeljalil, AERIAL ENGINEER & JUNIOR DATA SCIENTIST 
+- nontsikelelo ncwadi, Public Health 
+- Ameena Bala, social community manager 
    https://www.linkedin.com/in/abdeljalil-zoubir-353573150/ 
 
 
