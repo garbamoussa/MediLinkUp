@@ -154,10 +154,13 @@ Infectious diseases
 
   https://www.linkedin.com/in/angeladine-kenne-08488124/
   
-## - 5. Youssoufa Tchiroma, French/English speaking Technical support | Network Engineer | AWS Evangelist
+- Julius Basiima, developer 
 
-  https://www.linkedin.com/in/youssoufa-tchiroma-2439739a/ 
+  https://www.linkedin.com/in/julius-basiima-a65653199/ 
 
+- Benny Moja 
+
+  https://www.linkedin.com/in/benny-moja/ 
 
 - 6. Sharon Attipoe-Dorcoo, Ph.D, Health Services and Systems Researcher at CDC through The Bizzell Group, LLC
 
