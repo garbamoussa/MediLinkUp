@@ -10,7 +10,14 @@ or patient care.
 
 ## Technical stack
 
-OVH for hosting, MongoDB for DB management, React Native https://reactnative.dev/ for front-end, back-end in Back4App : https://www.back4app.com/
+OVH for hosting 
+
+MongoDB for DB management
+
+Front-end React Native https://reactnative.dev/ 
+
+
+Back-end in Back4App : https://www.back4app.com/
 
 
 
