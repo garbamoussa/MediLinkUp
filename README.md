@@ -1,11 +1,11 @@
-# LinkUp 
+# MediLinkUp
 
 ### Linking healthcare providers to patient needs
 
 
-## Why LinkUp 
+## Why MediLinkUp
 
-LinkUp  is a centralized eHealth system to collect patient medical records  that will facilitate detection and classification of disease  cases to assist medical professionals in decision making for treatment 
+MediLinkUp  is a centralized eHealth system to collect patient medical records  that will facilitate detection and classification of disease  cases to assist medical professionals in decision making for treatment 
 or patient care.
 
 ## Technical stack
