@@ -1,9 +1,31 @@
-#    LinkUp 
+# LinkUp 
 
-##  Linking healthcare providers to patient needs 
-From massive data, intelligence artificielle and epidemiology  — are helping to break down these barriers and provide access to vital medicines for many more African people. Especially save african life againt covid_19 
+### Linking healthcare providers to patient needs
+
+
+## Why LinkUp 
+
+LinkUp  is a centralized eHealth system to collect patient medical records  that will facilitate detection and classification of disease  cases to assist medical professionals in decision making for treatment 
+or patient care.
+
+## Technical stack
+
+OVH for hosting, MongoDB for DB management, React Native https://reactnative.dev/ for front-end, back-end in Back4App : https://www.back4app.com/
+
+
+
+
+
+
+
+
+## Resources 
+
+
+
 
 ## Vision and Plans
+
 
 ####    COVID 
 "Co": "corona","vi": "virus"  "D":  " disease"
@@ -168,3 +190,6 @@ Good datascientists know that domain expertise is critical for building good mod
 3. If you answered 'no' to #1 and #2, can you find someone with these skills?
 
 Finally, if you answered 'no' to all of the above, please add a caveat to your write-up. Something like: "This model needs to be reviewed by someone with domain experience, but I found..."
+
+
+
