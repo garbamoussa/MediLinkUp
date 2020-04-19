@@ -1,6 +1,21 @@
 ##  Answer these : 
       How does your solution fix the problem ?
+      
+      Our solution of this project is to develop a prototype for classification and selection the severity  
+            patients via machine learning algorithms. 
+      
       What are the key features ? 
+      
+     *** Build a website to collect data of patient's symptoms
+     
+     
+     *** Create a large database containing patients history.
+
+     *** Manage the datebase, making it usable to other doctors and heath personal  while taking care of privacy concerns.
+
+     *** Build a IA method to learn from the data and detect early covid-19 symptoms.
+         The learned model allows us to make a diagnose.
+      *** Evaulaute IA method with opinions  of doctors  
       
       
       
