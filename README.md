@@ -2,6 +2,9 @@
 
 ### Linking healthcare providers to patient needs
 
+https://sites.google.com/view/medilinkup/home 
+
+https://www.youtube.com/watch?v=F1YJcHi8cDs&feature=youtu.be
 
 ## Why MediLinkUp
 
