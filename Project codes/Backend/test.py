@@ -7,23 +7,23 @@ import main as backend
 {
 	_id: ,
 	Patient_ID: "10025AE336"
-	Anthropometrics:
-    {
+	Anthropometrics:{
+		
 		First_Name: "Radhika",
 		Last_Name: "Sharma",
 		Date_Of_Birth: "1995-09-26",
-        Gender: "Mâle",
-        Age : "27", 
-        Height : "18",
-        Weight: "70",
-        BMI:"", 
-        Weight status : "",
-        Pregnancy status:"",
-        blood group: "",
-        Smoking status: "",
-        Current alcohol drinking : "",
-        Comorbidity : "",
-        Indication for testing : "Exposure to confirmed  SARS-CoV-2 contact /Symptomatic presentation"
+        	Gender: "Mâle",
+        	Age : "27", 
+        	Height : "18",
+       	 	Weight: "70",
+       	 	BMI:"", 
+        	Weight status : "",
+        	Pregnancy status:"",
+        	blood group: "",
+        	Smoking status: "",
+        	Current alcohol drinking : "",
+        	Comorbidity : "",
+        	Indication for testing : "Exposure to confirmed  SARS-CoV-2 contact /Symptomatic presentation"
         
 	},
 	Contact: {
@@ -38,38 +38,38 @@ import main as backend
     History of Chronic or Infectious Disease: {
 		diabetes: "",
 		Cancer : "", 
-        Coronary heart disease : "",
-        Previous stroke: "",
-        Respiratory disease :"acute", 
-        Severe pneumonia : "",
-        hypertension :"",
-        Cerebrovascular disease : "",
-        Tuberculosis : "",
-        pneunomie  : ""
+        	Coronary heart disease : "",
+        	Previous stroke: "",
+        	Respiratory disease :"acute", 
+        	Severe pneumonia : "",
+        	hypertension :"",
+        	Cerebrovascular disease : "",
+        	Tuberculosis : "",
+        	pneunomie  : ""
 	}
     
      COVID_19 Symptoms: {
 		Fever: "",
 		Dry cough : "",
-        Throat pain : " ",
-        Cold : "",
-        Muscle pain :"",
-        anosmia : "",
-        Dry cough or coughing up mucus : "",
-        Blocked nose  : "",
-        Problems breathing  : "",
-        Headache  : "",
-        Sore throat :"",
-        Muscle or joint pains : "",
-        Chest pain : "",
-        Sinonasal pain  : "",
-        Loss of appetite : "",
-        Felt tired   : "",
-        Diarrhea  :"",
-        Nausea  : "",
-        Vomit : "",
-        Abdominal pain   : "",
-        Dizziness  : ""     
+        	Throat pain : " ",
+        	Cold : "",
+        	Muscle pain :"",
+        	Anosmia : "",
+        	Dry cough or coughing up mucus : "",
+        	Blocked nose  : "",
+        	Problems breathing  : "",
+        	Headache  : "",
+        	Sore throat :"",
+        	Muscle or joint pains : "",
+        	Chest pain : "",
+        	Sinonasal pain  : "",
+        	Loss of appetite : "",
+        	Felt tired   : "",
+        	Diarrhea  :"",
+        	Nausea  : "",
+        	Vomit : "",
+        	Abdominal pain   : "",
+        	Dizziness  : ""     
         
 	}    
 }
