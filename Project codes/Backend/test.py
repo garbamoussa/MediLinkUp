@@ -4,36 +4,82 @@ import unittest
 import main as backend
 
 
-Patient1 = {
-    "Name": "",
-    "Description": "Description1",
-    "Country": "Country1",
+{
+	_id: ,
+	Patient_ID: "10025AE336"
+	Anthropometrics:
+    {
+		First_Name: "Radhika",
+		Last_Name: "Sharma",
+		Date_Of_Birth: "1995-09-26",
+        Gender: "Mâle",
+        Age : "27", 
+        Height : "18",
+        Weight: "70",
+        BMI:"", 
+        Weight status : "",
+        Pregnancy status:"",
+        blood group: "",
+        Smoking status: "",
+        Current alcohol drinking : "",
+        Comorbidity : "",
+        Indication for testing : "Exposure to confirmed  SARS-CoV-2 contact /Symptomatic presentation"
+        
+	},
+	Contact: {
+		e-mail: "radhika_sharma.123@gmail.com",
+		phone: "9848022338"
+	},
+	Address: {
+		city: "Hyderabad",
+		Country: "South Africa"
+	}
+    
+    History of Chronic or Infectious Disease: {
+		diabetes: "",
+		Cancer : "", 
+        Coronary heart disease : "",
+        Previous stroke: "",
+        Respiratory disease :"acute", 
+        Severe pneumonia : "",
+        hypertension :"",
+        Cerebrovascular disease : "",
+        Tuberculosis : "",
+        pneunomie  : ""
+	}
+    
+     COVID_19 Symptoms: {
+		Fever: "",
+		Dry cough : "",
+        Throat pain : " ",
+        Cold : "",
+        Muscle pain :"",
+        anosmia : "",
+        Dry cough or coughing up mucus : "",
+        Blocked nose  : "",
+        Problems breathing  : "",
+        Headache  : "",
+        Sore throat :"",
+        Muscle or joint pains : "",
+        Chest pain : "",
+        Sinonasal pain  : "",
+        Loss of appetite : "",
+        Felt tired   : "",
+        Diarrhea  :"",
+        Nausea  : "",
+        Vomit : "",
+        Abdominal pain   : "",
+        Dizziness  : ""     
+        
+	}    
 }
 
-Patient2 = {
-    "Name": "",
-    "Description": "Description2",
-    "Country": "Country2",
-}
 
-Patient3 = {
-    "Name": "",
-    "Last name": ""
-    "Description": "Description3",
-    "Country": "Country3",
-}
 
-Patient4 = {
-    "Name": "Enterprise4",
-    "Description": "Description4",
-    "Country": "Country4",
-}
 
-Patient5 = {
-    "Name": "Enterprise5",
-    "Description": "Description5",
-    "Country": "Country5",
-}
+
+
+
 
 
 class BackendTestCase(unittest.TestCase):
