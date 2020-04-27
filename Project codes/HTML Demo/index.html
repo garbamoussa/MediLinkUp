@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+	<title>Home | MediLinkUp</title>
+
+	<!--  -->
+
+	<style>
+	</style>
+
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="#">MediLinkUp</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  		</button>
+
+		<ul class="nav justify-content-end" style="margin-left: 70%;">
+			<li class="nav-item">
+				<a class="nav-link active" href="#">Home</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="#">Medical Records</a>
+			</li>
+		</ul>
+	</nav>
+
+	<div class="container-fluid">
+		<div id="heading" style="margin-bottom: 15px; margin-left: 10px;">
+			<div class="row">
+				<div class="col-3" style="border-radius: 8px; border: solid; border-width: 2px; text-align: center; line-height: normal; background-color: #336699; color: aliceblue;;">
+					<h3 style="height: 39px; margin-top: 9px;">ADD NEW PATIENT</h3>
+				</div>
+			</div>
+		</div>
+		<div class="row" id="">
+			<div class="col-6">
+				<div class="row" id="data">
+					<div class="col-sm">
+						<form>
+							<div class="form-group">
+								<label for="name">First Name:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your First Name">
+							</div>
+							<div class="form-group">
+								<label for="name">Last Name:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Last Name">
+							</div>
+
+							<div class="form-group">
+								<label for="name">Contact Number:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Contact Number">
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Gender:</label>
+								</div>
+								<div class="form-group col-md-8">
+									<select id="inputState" class="form-control">
+									 <option selected>Select</option>
+									 <option>Male</option>
+									 <option>Female</option>
+									 <option>Other</option>
+								</select>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Height (cm):</label>
+								</div>
+								<div class="form-group col-md-8">
+									<input type="text" class="form-control" id="inputCity">
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Weight (kg):</label>
+								</div>
+								<div class="form-group col-md-8">
+									<input type="text" class="form-control" id="inputCity">
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-5">
+									<label for="inputCity">Pregnancy Status:</label>
+								</div>
+								<div class="form-group col-md-7">
+									<select id="inputState" class="form-control">
+									 <option selected>Select</option>
+									 <option>Yes</option>
+									 <option>No</option>
+									 <option>Not Applicaple</option>
+								</select>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Blood Type:</label>
+								</div>
+								<div class="form-group col-md-8">
+									<select id="inputState" class="form-control">
+									 <option selected>Select</option>
+									 <option>A+</option>
+									 <option>A-</option>
+									 <option>B+</option>
+									 <option>B-</option>
+									 <option>O+</option>
+									 <option>O-</option>
+									 <option>AB+</option>
+									 <option>AB-</option>
+								</select>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-6">
+									<label for="inputCity">Smoking Status:</label>
+								</div>
+								<div class="form-group col-md-6">
+									<div class="form-row">
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked>
+												<label class="form-check-label" for="gridRadios1">
+												 Yes
+											</label>
+											</div>
+										</div>
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
+												<label class="form-check-label" for="gridRadios2">
+												No
+											</label>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-6">
+									<label for="inputCity">Consuming Alcohol?</label>
+								</div>
+								<div class="form-group col-md-6">
+									<div class="form-row">
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadioss" id="gridRadios3" value="option3" checked>
+												<label class="form-check-label" for="gridRadios3">
+												 Yes
+											</label>
+											</div>
+										</div>
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadioss" id="gridRadios4" value="option4">
+												<label class="form-check-label" for="gridRadios4">
+												No
+											</label>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-6">
+									<label for="inputCity">Cormobidity:</label>
+								</div>
+								<div class="form-group col-md-6">
+									<div class="form-row">
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadiosss" id="gridRadios5" value="option5" checked>
+												<label class="form-check-label" for="gridRadios5">
+												 Yes
+											</label>
+											</div>
+										</div>
+										<div class="form-group col-4">
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="gridRadiosss" id="gridRadios6" value="option6">
+												<label class="form-check-label" for="gridRadios6">
+												No
+											</label>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="form-group col">
+									<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="If Yes, please specify">
+								</div>
+							</div>
+						</form>
+					</div>
+					<div class="col-sm">
+						<form>
+							<div class="form-group">
+								<label for="name">Email Address:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Email Address">
+							</div>
+							<div class="form-group">
+								<label for="name">City:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your City">
+							</div>
+							<div class="form-group">
+								<label for="name">Occupation:</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Current Occupation">
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Country:</label>
+								</div>
+								<div class="form-group col-md-8">
+									<select id="inputState" class="form-control">
+									 <option selected>Select</option>
+									 <option>France</option>
+									 <option>Niger</option>
+									 <option>Nigeria</option>
+									 <option>Sierra Leone</option>
+									 <option>South Africa</option>
+									 <option>Uganda</option>
+								</select>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Age (Years):</label>
+								</div>
+								<div class="form-group col-md-8">
+									<input type="text" class="form-control" id="inputCity">
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">BMI (kg/m^2):</label>
+								</div>
+								<div class="form-group col-md-8">
+									<input type="text" class="form-control" id="inputCity" disabled>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Weight Status:</label>
+								</div>
+								<div class="form-group col-md-8">
+									<input type="text" class="form-control" id="inputCity" disabled>
+								</div>
+							</div>
+							<div class="form-row">
+								<div class="form-group col-md-4">
+									<label for="inputCity">Activity Level:</label>
+								</div>
+								<div class="form-group col-md-8">
+									<select id="inputState" class="form-control">
+									 <option selected>Select</option>
+									 <option>Sedentary</option>
+									 <option>Moderate</option>
+									 <option>Active</option>
+								</select>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="col-6">
+				<div class="row" id="check">
+					<div class="col-sm">
+						<h4>COVID-19 Symptoms</h4>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Fever</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Dry cough</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Trouble breathing</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Cold</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Muscle pain</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Wet cough</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Blocked nose </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Headache</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Sore throat </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Lethargic</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Chest pain </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Fatigue</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Loss of appetite </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Diarrhea </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Nausea </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Vomit </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Abdominal pain </label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Dizziness</label>
+						</div>
+
+					</div>
+					<div class="col-sm">
+						<h4>Chroni or Infectious Deseases (History)</h4>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Diabetes</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Cancer</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Coronary heart disease</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Previous stroke</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Respiratory disease</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Pneumonia</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Hypertension</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Cerebrovascular disease</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+							<label class="form-check-label" for="defaultCheck1">Tuberculosis </label>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<br>
+		<div class="next " style="align-content: flex-end; align-items: flex-end; text-align: left; ">
+			<button type="submit" class="btn btn-lg btn-primary" style=" position: relative; left: 90%;"> NEXT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+		</div>
+
+
+
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+	<script>
+	</script>
+
+</body>
+
+</html>
