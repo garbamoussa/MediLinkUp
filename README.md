@@ -25,13 +25,7 @@ Back-end in Back4App : https://www.back4app.com/
 
 
 
-
-
-
-
 ## Resources 
-
-
 
 
 ## Vision and Plans
@@ -96,8 +90,6 @@ We plan to:
 4. Build a IA method  to learn from the data and detect early covid-19 symptoms.  The learned model
    allows us to make a diagnose.
 5. Evaulaute IA method 
-
-
 
 
 
