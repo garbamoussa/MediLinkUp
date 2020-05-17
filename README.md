@@ -1,6 +1,13 @@
-# MediLinkUp
 
-### Linking healthcare providers to patient needs
+
+<h1 MediLinkUp: eHEALTH SYSTEM FOR DETECTION, DIAGNOSIS, AND ANALYSIS.</h1>
+
+
+<h2 Maximising digital health technology to improve quality and patient safety in Africa : </h2>
+
+<h3>Linking healthcare providers to patient needs: </h3>
+
+
 
 https://sites.google.com/view/medilinkup/home 
 
