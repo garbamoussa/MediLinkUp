@@ -61,6 +61,8 @@ The economy is low and people suffered and economies in Sub-Saharan Africa could
 
 African countries urgently need to take on a customized short-term policy approach that takes into consideration the structural features of the region: (1) the size of informal employment in the region accounting for 89% of total employment; (2) the precariousness of most SSA jobs, (3) the predominance of small and medium-sized enterprises which constitute 90% of business units and are the drivers of growth in the region, and (4) the ineffectiveness of monetary stimulus due to the reduced labor supply and closed businesses, and in the recovery phase due to weak monetary transmission in countries with underdeveloped financial markets.
 
+## Hackathons 
+
 We believe, as a team composed of developers and researcher on IT, product design, data scientist and biotech, doctors that we can make contributions from our aspects to help the people to curb the pandemic situation.
 
 Our hope of this project is to develop a prototype for selecting patients via deep learning. 
@@ -69,34 +71,35 @@ Later, we want to apply forfundings, e.g. fast-grant
 [https://fastgrants.org/,  for improving the project.  Ultimately, we hope to develop a software and data platform that will be widely used by ordinarly people around the Africa , as an
 accurate, cost-effective, and easy-to-use solution that can accurately diagnose the COVID-19 virus and complement doctors' diagonsis and testing. 
 
-IDHEATHON AfricaVsVirus challenge 
+- IDHEATHON AfricaVsVirus challenge 
 
-AfricaVsVirus_challenge.png
+
 ![AfricaVsVirus Challenge](visualizations/AfricaVsVirus_challenge.png)
 
+Link : https://africavsvirus.com 
 
-EUvsVirus Hackathon 
+- EUvsVirus Hackathon 
 
 ![EUVsVirus Hackathon](visualizations/EUvsVirus_MediLinkUp_Badge.png)
 
-https://africavsvirus.com : Ideathon
+
 
 -- System for detention of covid-19 systems in patients coming to the doctor in order to create work flow to predict likelihood of death.
 
 
 
 
-AUF 
+- AUF 
 
 
 https://www.auf.org/afrique-ouest/nouvelles/actualites/appel-a-projets-international-auf-covid-19/?fbclid=IwAR0q5lyRiN1W0F_NfTaacCM3CVA1QxoqIhPklOhe6fCwYlcv5y5Ii7y7hrw 
 
-IBM 
+- IBM 
 
 
 https://developer.ibm.com/callforcode/getstarted/covid-19/ 
 
-QUARANTINE Hackathon Top 15
+- QUARANTINE Hackathon Top 15
 
 ![MediLinkUp Design](visualizations/MediLinkUp_Top15_Quarantine_Hackathon.png)
 
