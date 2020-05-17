@@ -1,4 +1,4 @@
-
+![MediLinkUp Design](visualizations/Design_MediLinkUp.jpeg)
 <h1 align=center>MediLinkUp: eHEALTH SYSTEM FOR DETECTION, DIAGNOSIS, AND ANALYSIS</h1>
 
 
@@ -69,11 +69,21 @@ Later, we want to apply forfundings, e.g. fast-grant
 [https://fastgrants.org/,  for improving the project.  Ultimately, we hope to develop a software and data platform that will be widely used by ordinarly people around the Africa , as an
 accurate, cost-effective, and easy-to-use solution that can accurately diagnose the COVID-19 virus and complement doctors' diagonsis and testing. 
 
-AFDB IDHEATHON 
+IDHEATHON AfricaVsVirus challenge 
+
+AfricaVsVirus_challenge.png
+![AfricaVsVirus Challenge](visualizations/AfricaVsVirus_challenge.png)
+
+
+EUvsVirus Hackathon 
+
+![EUVsVirus Hackathon](visualizations/EUvsVirus_MediLinkUp_Badge.png)
+
+https://africavsvirus.com : Ideathon
 
 -- System for detention of covid-19 systems in patients coming to the doctor in order to create work flow to predict likelihood of death.
 
-https://africavsvirus.com : Ideathon
+
 
 
 AUF 
@@ -86,7 +96,9 @@ IBM
 
 https://developer.ibm.com/callforcode/getstarted/covid-19/ 
 
+QUARANTINE Hackathon Top 15
 
+![MediLinkUp Design](visualizations/MediLinkUp_Top15_Quarantine_Hackathon.png)
 
 We plan to:
 
