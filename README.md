@@ -166,11 +166,7 @@ Currently, we have:
   
   http://www.icoph.org/connections/user_profile/003F000002GyqQnIAJ/Ndayirukiye-Jean-Pierre.html 
 
-- 4. Angeladine Kenne, PhD, Depidemiology / Clinical research / Biostatistics/ Neurological diseases; Tropical diseases   
-Infectious diseases 
 
-  https://www.linkedin.com/in/angeladine-kenne-08488124/
-  
 - Julius Basiima, developer 
 
   https://www.linkedin.com/in/julius-basiima-a65653199/ 
