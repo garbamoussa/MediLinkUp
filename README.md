@@ -77,6 +77,13 @@ accurate, cost-effective, and easy-to-use solution that can accurately diagnose 
 ![AfricaVsVirus Challenge](visualizations/AfricaVsVirus_challenge.png)
 
 Link : https://africavsvirus.com 
+### MediLinkUp in top 100 projects.
+https://top100.africavsvirus.com/
+
+![AfricaVsVirus Challenge](visualizations/Top100_Africavsvirus.png)
+
+![AfricaVsVirus Challenge](visualizations/MediLinkUp_Top100.png)
+
 
 - EUvsVirus Hackathon 
 
